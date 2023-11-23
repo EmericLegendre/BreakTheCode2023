@@ -1,0 +1,139 @@
+Peninsule de Tombeau,Archipel Cache
+Ile Turquoise,Recif de Squelettes
+Atoll isole,Ile de Beauyonne
+Atoll de Squelettes,Refuge de Dauphin
+Refuge Volatil,Ile des Pulliers
+Ile Desolee,Refuge Enchante
+Refuge de la Levanoit,Ile de Belmans
+Havre Fane,Ile de la Boubeliard
+Archipel de Fantome,Ile de la Chagneux
+Ile de Claleme,Refuge Volatil
+Ile de Cris,Archipel de la Sauluire
+Atoll de Squelettes,Ile Seul
+Ile Orientale,Ile de Monstre
+Ile Solide,Ile de Pluie
+Havre Brûle,Ile de la Montautoise
+Ile de Digueux,Havre du Colossion
+Recif du Bouciennes,Ile de Sarrac
+Ile de Crainte,Ile du Passonne
+Peninsule de Homard,Peninsule de la Viermart
+Enclave Hivernale,Havre du Maryonne
+Havre enorme,Havre de Soimart
+Recif de Villeurles,Ile de Maiçon
+Archipel de Crevette,Peninsule de Tombeau
+Havre du Frezon,Ile de la Boubeliard
+Archipel de Fantome,Atoll de Squelettes
+Ile Abandonnee,Ile etroite
+Peninsule de la Haguethune,Chaine des Nanmiers
+Ile Agreable,Ile Fortifiee
+Ile de Orsart,Recif du Bouciennes
+Ile de la Chagneux,Ile du Camtoise
+Refuge epibonne,Peninsule des Bergergues
+Refuge Antigny,Ile des Coloves
+Havre du Maryonne,Peninsule Gemissante
+Enclave de Poseidon,Enclave de la Periveil
+Peninsule du Nanbeuge,Archipel epouvantable
+Recif Gele,Peninsule du Courseau
+Ile de la Houirac,Peninsule de Tombeau
+Havre enorme,Archipel de Alennau
+Ile de Maiçon,Enclave de la Periveil
+Peninsule Ravagee,Ile de la Vierzieu
+Ile de la Houirac,Ile des Champilliers
+Atoll des Poilliers,Havre Brûle
+Ile de Sarrac,Ile de Plaimomble
+Recif de Squelettes,Ile de la Chagneux
+Enclave de Poseidon,Peninsule Affamee
+Peninsule du Roumasse,Ile de Beauyonne
+Ile de Aubercourt,Archipel Majestueux
+Atoll Horrible,Ile des Liles
+Ile Pure,Atoll de Pelican
+Recif Gele,Recif Or
+Ile Gelee,Ile Desolee
+Ile Orientale,Ile de Beauyonne
+Archipel de Alennau,Ile Agreable
+Archipel Majestueux,Peninsule de Courlon
+Ile de Orsart,Enclave de la Tallac
+Ile de la Narteaux,Ile Turquoise
+Archipel de la Periseau,Atoll Angouciennes
+Ile Enchantee,Ile de Aurileme
+Refuge de la Levanoit,Ile ebullition
+Atoll Angouciennes,Ile des Lilliers
+Ile Pluvieuse,Peninsule de Tombeau
+Ile des Lilliers,Havre Brûle
+Refuge Antigny,Peninsule de la Gennergues
+Ile de la Boubeliard,Peninsule Ravagee
+Ile de Plaimomble,Archipel Majestueux
+Ile Gelee,Archipel de Alennau
+Enclave de la Periveil,Ile etroite
+Ile Ombree,Havre du Maryonne
+Ile de Plaimomble,Peninsule de la Viermart
+Ile de Crainte,Ile Doree
+Recif ethere,Peninsule Ravagee
+Ile de la Houirac,Recif Angoulimar
+Havre de Gennessis,Ile Pure
+Ile Pure,Archipel de Fantome
+Havre enorme,Ile erodee
+Ile de Cris,Atoll de Jade
+Refuge Robuste,Ile de Digueux
+Recif Flottant,Ile Agreable
+Refuge Volatil,Peninsule du Carcassy
+Enclave du Maribeuge,Refuge Volatil
+Chaine des Nanmiers,Refuge de la Levanoit
+Peninsule Marmonnante,Archipel Cache
+Atoll de Poulpe,Enclave de la Drabagne
+Ile de la Boubeliard,Peninsule de Crainte
+Havre de la Houilon,Ile de Monstre
+Ile Abandonnee,Ile de Cris
+Peninsule de la Haguethune,Peninsule des Dimiers
+Ile de Montaugnane,Ile de la Chagneux
+Archipel de Crevette,Ile de la Vierzieu
+Ile Fortifiee,Ile Gigantesque
+Peninsule Gemissante,Atoll de Poulpe
+Peninsule de Refuge,Ile Turquoise
+Peninsule de Feu,Enclave de Poseidon
+Archipel de Crevette,Ile de Sarrac
+Ile de Bagnane,Havre du Colossion
+Ile de la Clernin,Archipel de Crevette
+Ile des Lilliers,Recif Flottant
+Ile Abandonnee,Ile Enchantee
+Ile Claire,Ile Solide
+Recif Flottant,Peninsule Gemissante
+Peninsule du Courseau,Recif Flottant
+Ile de Montaugnane,Havre de la Houilon
+Ile Pluvieuse,Ile de Montaugnane
+Ile des Lilliers,Enclave Puissante
+Ile de la Houirac,Ile etroite
+Ile etroite,Atoll Neglige
+Peninsule du Nanbeuge,Peninsule Marmonnante
+Archipel epouvantable,Recif du Narmasse
+Ile de Maiçon,Ile de Flamants
+Peninsule Marmonnante,Ile du Roalles
+Atoll de Squelettes,Enclave Rutilante
+Ile Agreable,Ile de Montaugnane
+Havre du Colossion,Ile de Crainte
+Ile du Carcayonne,Ile de Cris
+Recif de Puzieu,Recif ethere
+Atoll Angouciennes,Archipel Noir
+Recif de la Roassonne,Ile erodee
+Chaine de la Charnesse,Refuge Antigny
+Peninsule de Auriles,Ile de Orsart
+Enclave de Jade,Refuge Antigny
+Havre du Colossion,Ile de la Clernin
+Atoll de Plaiyonne,Ile de Maiçon
+Ile de Secrets,Atoll de Poulpe
+Chaine Mysterieuse,Peninsule de la Viermart
+Peninsule Flottante,Recif ethere
+Ile Pure,Archipel de Frennois
+Chaine des Nanmiers,Archipel de Fantome
+Havre Robuste,Peninsule de la Haguethune
+Ile des Liles,Atoll de Argenville
+Archipel de Alennau,Enclave de Jade
+Enclave de Flamants,Peninsule de la Viermart
+Enclave de Jade,Archipel Abandonne
+Havre du Maryonne,Peninsule de Bronze
+Ile Gigantesque,Ile Solide
+Peninsule de Tombeau,Refuge epibonne
+Ile de Orsart,Ile de Perissons
+Ile Orage,Recif de Squelettes
+Ile des Liles,Ile de Claleme
+Ile de Claleme,Ile de Sarrac
